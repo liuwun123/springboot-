@@ -1,0 +1,5 @@
+server:
+  port: 8022
+girl:
+  cupSize: "开发环境"
+  age: 18
